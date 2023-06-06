@@ -3,6 +3,9 @@
 
 The UEditor is a tool designed to aid modders by providing quick and intuitive unit editing capabilities for any Emergency 4 (EM4) modification. With its interface and convenient features, modders can easily modify unit properties with minimal learning curve.
 
+Disclaimer:
+Please note that the UEditor was initially developed for personal use, and I am sharing it with the community for the greater good. While efforts have been made to ensure its functionality and usability, it is provided "as is" without any warranties. Use the UEditor at your own discretion, and I hold no responsibility for any potential consequences or issues that may arise from its usage.
+
 ## Features
 
 - Load Mods: Easily load your desired mods for editing units within EM4.
